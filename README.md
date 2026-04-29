@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 I’m currently learning node.js<br>
+🌱 I’m currently a fullstack dev<br>
 
 
 # 💻 Tech Stack:
