@@ -11,7 +11,7 @@
 I'm a self-driven full stack developer with a year of hands-on experience building web applications from the ground up. I enjoy working across the entire stack — from crafting responsive UIs to designing efficient back-end logic and databases.
 
 - 🔭 Currently focused on sharpening my full stack skills with real-world projects
-- 🌱 Always learning — currently exploring deeper JavaScript patterns and backend architecture
+- 🌱 Always learning — currently exploring deeper JavaScript patterns, backend architecture, and AI integration
 - 💡 Passionate about writing clean, maintainable code
 - 🤝 Open to collaborations, freelance work, and junior dev opportunities
 
@@ -34,7 +34,14 @@ I'm a self-driven full stack developer with a year of hands-on experience buildi
 
 **Backend & Database**
 
+![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/mongodb-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+
+**Mobile**
+
+![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white)
+![Flutter](https://img.shields.io/badge/flutter-%2302569B.svg?style=for-the-badge&logo=flutter&logoColor=white)
 
 ---
 
